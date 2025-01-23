@@ -3,7 +3,7 @@
 
 <div class="container">
     <div class="mt-4 p-2 bg-secondary text-white rounded" style="width: 60%;">
-        <h3>Eddie Xu</h3>
+        <h3 class="fs-2">Eddie Xu</h3>
         <h3>Check your zodiac.</h3>
         <p>
             Enter your birth year to know your Zodiac sign!
